@@ -31,11 +31,6 @@ La base de datos incluye información de más de 2.000 clientes, con variables c
 
 🔗 **Disponible próximamente:** Publicación en Power BI Service para navegación online.
 
-## Archivos disponibles
-
-- [`DHMarketingCampaignMaríaRivas.pbix`](./DHMarketingCampaignMaríaRivas.pbix) – Archivo del informe Power BI para abrir en Power BI Desktop.
-- [`DHMarketing_MaríaJoséRivasC.pdf`](./docs/DHMarketing_MaríaJoséRivasC.pdf) – Informe explicativo con detalles del análisis (PDF).
-
 ## Requisitos
 
 - 💻 [Power BI Desktop](https://powerbi.microsoft.com/es-es/desktop/) – Aplicación gratuita para visualizar y editar el archivo `.pbix`.
