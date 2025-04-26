@@ -27,6 +27,8 @@ La base de datos incluye información de más de 2.000 clientes, con variables c
 - Antigüedad como cliente  
 - Reclamos recientes  
 
+*Los datos son de uso educativo y provienen de un dataset público de Kaggle.*
+
 # Reporte Interactivo de Ventas - Power BI
 
 Este repositorio muestra el enlace a un dashboard de ventas desarrollado en Power BI.
