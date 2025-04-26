@@ -8,12 +8,12 @@ Ofrecer una visión clara sobre el comportamiento de los clientes frente a disti
 
 ## Principales características
 
-- 👥 **Segmentación de clientes** por edad, ingresos, estado civil y nivel educativo.  
-- 💸 **Análisis del gasto** por categoría de producto: vino, carne, pescado, oro, dulces y frutas.  
-- 🎯 **Resultados de campañas**: campañas aceptadas y tasa de respuesta global.  
-- 🌐 **Canales efectivos**: web, tienda, catálogo, promociones.  
-- 📈 **Distribución temporal** de ingresos y gastos por trimestre y año.  
-- 📊 **Visualizaciones interactivas** diseñadas para facilitar el análisis exploratorio.
+- **Segmentación de clientes** por edad, ingresos, estado civil y nivel educativo.  
+- **Análisis del gasto** por categoría de producto: vino, carne, pescado, oro, dulces y frutas.  
+- **Resultados de campañas**: campañas aceptadas y tasa de respuesta global.  
+- **Canales efectivos**: web, tienda, catálogo, promociones.  
+- **Distribución temporal** de ingresos y gastos por trimestre y año.  
+- **Visualizaciones interactivas** diseñadas para facilitar el análisis exploratorio.
 
 ## Dataset
 
@@ -31,20 +31,12 @@ La base de datos incluye información de más de 2.000 clientes, con variables c
 
 Este repositorio muestra el enlace a un dashboard de ventas desarrollado en Power BI.
 
-📊 **[Haz clic aquí para ver el reporte interactivo][(https://app.powerbi.com/view?r=TU-LINK-AQUI)](https://app.powerbi.com/groups/me/reports/40cec4a3-42ba-4c4d-8ff3-a3066dc97368?experience=power-bi)**
+📊 Haz clic aquí para ver el reporte (https://app.powerbi.com/groups/me/reports/40cec4a3-42ba-4c4d-8ff3-a3066dc97368?experience=power-bi)**](https://app.powerbi.com/reportEmbed?reportId=40cec4a3-42ba-4c4d-8ff3-a3066dc97368&autoAuth=true&ctid=72cbe640-0629-4b6d-a9a5-82445d56b777)
 
----
 ## Descripción del Dashboard
 - Análisis mensual de ventas
 - Segmentación por región
 - Comparativa año a año
-
----
-© 2025 - Autor: [Tu nombre]
-
-## Requisitos
-
-- 💻 [Power BI Desktop](https://powerbi.microsoft.com/es-es/desktop/) – Aplicación gratuita para visualizar y editar el archivo `.pbix`.
 
 © 2025 - Autor: María José Rivas Cardona
 
