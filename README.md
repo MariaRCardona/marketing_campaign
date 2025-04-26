@@ -27,16 +27,26 @@ La base de datos incluye información de más de 2.000 clientes, con variables c
 - Antigüedad como cliente  
 - Reclamos recientes  
 
-## Visualización interactiva
+# Reporte Interactivo de Ventas - Power BI
 
-🔗 **Disponible próximamente:** Publicación en Power BI Service para navegación online.
+Este repositorio muestra el enlace a un dashboard de ventas desarrollado en Power BI.
+
+📊 **[Haz clic aquí para ver el reporte interactivo][(https://app.powerbi.com/view?r=TU-LINK-AQUI)](https://app.powerbi.com/groups/me/reports/40cec4a3-42ba-4c4d-8ff3-a3066dc97368?experience=power-bi)**
+
+---
+## Descripción del Dashboard
+- Análisis mensual de ventas
+- Segmentación por región
+- Comparativa año a año
+
+---
+© 2025 - Autor: [Tu nombre]
 
 ## Requisitos
 
 - 💻 [Power BI Desktop](https://powerbi.microsoft.com/es-es/desktop/) – Aplicación gratuita para visualizar y editar el archivo `.pbix`.
 
-## 👩‍💻 Autor
+© 2025 - Autor: María José Rivas Cardona
 
-**María José Rivas Cardona**  
 Proyecto desarrollado como parte del programa **IBM SkillsBuild / Datahack** – Convocatoria Enero 2024.
 
