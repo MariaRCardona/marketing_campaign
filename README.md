@@ -31,7 +31,7 @@ La base de datos incluye información de más de 2.000 clientes, con variables c
 
 Este repositorio muestra el enlace a un dashboard de ventas desarrollado en Power BI.
 
-📊 Haz clic aquí para ver el reporte (https://app.powerbi.com/groups/me/reports/40cec4a3-42ba-4c4d-8ff3-a3066dc97368?experience=power-bi)**](https://app.powerbi.com/reportEmbed?reportId=40cec4a3-42ba-4c4d-8ff3-a3066dc97368&autoAuth=true&ctid=72cbe640-0629-4b6d-a9a5-82445d56b777)
+📊 Haz clic aquí para ver el reporte (https://app.powerbi.com/reportEmbed?reportId=40cec4a3-42ba-4c4d-8ff3-a3066dc97368&autoAuth=true&ctid=72cbe640-0629-4b6d-a9a5-82445d56b777)
 
 ## Descripción del Dashboard
 - Análisis mensual de ventas
